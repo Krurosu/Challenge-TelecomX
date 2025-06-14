@@ -68,11 +68,11 @@ pip install pandas numpy matplotlib seaborn requests
 📈 Exemplos de Resultados
 
 Análise de Evasão de Clientes (CHURN)
-![alt text](<ANÁLISE DE EVASÃO DE CLIENTES (CHURN)-2.png>)
+ANÁLISE DE EVASÃO DE CLIENTES (CHURN).png
 Análise de tendencias e oportunidades  - Fatores do CHURN
-![alt text](<ANÁLISE DE TENDÊNCIAS E OPORTUNIDADES-1.png>)
+ANÁLISE DE TENDÊNCIAS E OPORTUNIDADES.png
 Análise de Correlação - Fatores do CHURN
-![alt text](<ANÁLISE DE CORRELAÇÃO - FATORES DO CHURN-1.png>)
+ANÁLISE DE CORRELAÇÃO - FATORES DO CHURN.png
 
 
 📝 Conclusões e Recomendações
