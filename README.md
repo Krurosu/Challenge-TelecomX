@@ -49,9 +49,12 @@ telecom-churn-analysis/
 
 1️⃣ Clone este repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
+
 2️⃣ Abra o arquivo TelecomX_Churn_Analysis.ipynb diretamente no Google Colab ou em sua IDE preferida.
+
 3️⃣ Instale as dependências necessárias (no caso de execução local):
 pip install pandas numpy matplotlib seaborn requests
+
 4️⃣ Execute o notebook célula por célula, acompanhando o processo de ETL e análise exploratória.
 
 📊 Principais Etapas
